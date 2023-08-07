@@ -6,9 +6,14 @@ const authRoute = require("./routes/auth")
 const postRoute = require("./routes/posts")
 const userRoute = require("./routes/users")
 
+const cors = require('cors');
+
 const app = express();
 app.use(express.json());
 app.use(cookieParser());
+
+// Allow all cross-origin requests
+app.use(cors());
 
 //for image uploads, look at write page in front end
 const storage = multer.diskStorage({
