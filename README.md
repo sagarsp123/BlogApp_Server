@@ -1,6 +1,6 @@
-### This is the Server side GITHUB REPO of Blog Application build using Node JS, REST API
-### Front end Github URL: https://github.com/sagarsp123/BlogApp_Client
-### Final Deployed Application- AWS Github URL: https://github.com/sagarsp123/BlogApplication-AWS
+#### This is the Server side GITHUB REPO of Blog Application build using Node JS, REST API
+#### Front end Github URL: https://github.com/sagarsp123/BlogApp_Client
+#### Final Deployed Application- AWS Github URL: https://github.com/sagarsp123/BlogApplication-AWS
 
 • Goaled towards developing a scalable, low-latency React-Node-MySQL blog application that can deliver a good user experience.
 
